@@ -1,0 +1,6 @@
+Khái niện: reatc hook ra đời nhằm hỗ trợ viết các function component đơn giản và có các tính năng như class component
+Một số loại hook:
+usestate
+// 
+state va props 
+stat
