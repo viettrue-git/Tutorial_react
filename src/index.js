@@ -91,7 +91,7 @@ const res=()=>{
 //   }
 // }
 
-
+const str="demogit";
 const numbers=[1,2,3,4,5];
 root.render(
   //<App/>
